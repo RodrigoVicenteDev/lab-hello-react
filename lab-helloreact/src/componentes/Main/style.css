@@ -1,0 +1,13 @@
+.main{
+    
+    background-color: rgb(7, 7, 80);
+    color: antiquewhite;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.descricao{
+    margin-left:40px;
+    width: 300px;
+    padding: 20px;
+}
